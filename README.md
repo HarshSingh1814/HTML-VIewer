@@ -10,4 +10,3 @@ Includes syntax highlighting powered by Prism.js and a free API integration to l
 	•	📥 API Integration → Fetch and load sample HTML templates from JSONPlaceholder
 	•	💻 Professional UI → Modern, dark-themed, responsive design
 	•	🧹 Clean Code → Modular React components and well-structured CSS
-
